@@ -1,0 +1,3 @@
+[gerrit]
+host=<DIRECCION_IP>
+project=<NOMBRE_DEL_PROYECTO>.git
